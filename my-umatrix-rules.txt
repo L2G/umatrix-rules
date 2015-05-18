@@ -1,3 +1,4 @@
+matrix-off: about-scheme true
 matrix-off: behind-the-scene true
 matrix-off: chrome-extension-scheme true
 matrix-off: chrome-scheme true
@@ -15,10 +16,13 @@ matrix-off: opera-scheme true
 * duckduckgo.com frame allow
 * dup.baidustatic.com * block
 * ecomcbjs.jomodns.com * block
+* ensighten.com * block
+* google.com * block
 * googleapis.com * block
 * gstatic.com * block
 * js-agent.newrelic.com * inherit
 * newrelic.com * allow
+* nexus.ensighten.com * inherit
 about.me cloudflare.com * allow
 about.me d2ed0w4q03gsmw.cloudfront.net * allow
 about.me mapquestapi.com * allow
@@ -111,6 +115,7 @@ facebook.com www.youtube.com frame allow
 facebook.com www.youtube.com script allow
 facebook.com www.youtube.com xhr allow
 fedex.com fpdownload.adobe.com * allow
+firefox.com mozilla.net * allow
 flightradar24.com ajax.googleapis.com script allow
 flightradar24.com code.jquery.com script allow
 flightradar24.com d1odq4u5rh2864.cloudfront.net * allow
