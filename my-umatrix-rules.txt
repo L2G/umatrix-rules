@@ -55,6 +55,8 @@ asteroidzoo.org mpc-count.herokuapp.com xhr allow
 asteroidzoo.org zooniverse-demo.s3-website-us-east-1.amazonaws.com * allow
 asteroidzoo.org zooniverse.org * allow
 asteroidzoo.org zooniverse.org frame allow
+aws.amazon.com awsstatic.com * allow
+aws.amazon.com s3.amazonaws.com * allow
 betterhelp.com d2ow4fmlaf3fdw.cloudfront.net script allow
 bountysource.com d2bbtvgnhux6eq.cloudfront.net * allow
 bountysource.com js.balancedpayments.com * allow
@@ -75,8 +77,12 @@ console.aws.amazon.com awsmedia.s3.amazonaws.com * allow
 console.aws.amazon.com d1n904rdblmhgf.cloudfront.net * allow
 console.aws.amazon.com d257l1zb7u5fh9.cloudfront.net * allow
 console.aws.amazon.com d2q66yyjeovezo.cloudfront.net * allow
+console.aws.amazon.com d2zuf2skvxryds.cloudfront.net * allow
 console.aws.amazon.com d34xub3ut0ooib.cloudfront.net * allow
 console.aws.amazon.com d36cz9buwru1tt.cloudfront.net * allow
+console.aws.amazon.com d3e2aud6m9sl41.cloudfront.net * allow
+console.aws.amazon.com dc2kxa051c7jb.cloudfront.net * allow
+console.aws.amazon.com sm-console-dependencies.s3-us-west-2.amazonaws.com * allow
 curry.com code.jquery.com script allow
 curry.com kiwiirc.com * allow
 curry.com kiwiirc.com frame allow
@@ -212,6 +218,7 @@ periscope.tv pubnub.com * allow
 qunitjs.com jquery.com * allow
 qunitjs.com use.typekit.net script allow
 reddit.com redditstatic.com * allow
+resources.console.aws.amazon.com d26p7ba7jr5u26.cloudfront.net * allow
 ruby-doc.com code.jquery.com script allow
 ruby-doc.com www.google.com script allow
 ruby-doc.com www.googleapis.com script allow
@@ -240,6 +247,8 @@ unicode.org duckduckgo.com * allow
 unicode.org duckduckgo.com frame allow
 us-west-1.console.aws.amazon.com d3o05j5anbsoo3.cloudfront.net * allow
 us-west-1.console.aws.amazon.com dykkng5hnh52u.cloudfront.net * allow
+us-west-2.console.aws.amazon.com d10hwp9k65suua.cloudfront.net * allow
+us-west-2.console.aws.amazon.com d363lb6z73zzbk.cloudfront.net * allow
 us-west-2.console.aws.amazon.com d3a94n0r6dqtjm.cloudfront.net * allow
 us-west-2.console.aws.amazon.com d3rrzw75sdtfe5.cloudfront.net * allow
 usps.com fast.fonts.net * allow
@@ -247,6 +256,8 @@ verizonwireless.com vzw.com * allow
 wikipedia.org wikimedia.org * allow
 wolframalpha.com ajax.googleapis.com script allow
 wolframalpha.com wolframcdn.com * allow
+www.amazon.com awsstatic.com * allow
+www.amazon.com ssl-images-amazon.com * allow
 yelp.com ajax.googleapis.com script allow
 yelp.com dev.virtualearth.net script allow
 yelp.com maps.googleapis.com script allow
